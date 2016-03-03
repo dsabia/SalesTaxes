@@ -23,3 +23,8 @@ a Spring boot example application
 [![Build Status](https://travis-ci.org/dsabia/SalesTaxes.svg?branch=master)](https://travis-ci.org/dsabia/SalesTaxes.svg?branch=master)
  
  
+### Project management (waffle.io)
+
+[![Stories in Ready](https://badge.waffle.io/dsabia/SalesTaxes.svg?label=ready&title=Ready)](http://waffle.io/dsabia/SalesTaxes)
+
+[![Throughput Graph](https://graphs.waffle.io/dsabia/SalesTaxes/throughput.svg)](https://waffle.io/dsabia/SalesTaxes/metrics)
