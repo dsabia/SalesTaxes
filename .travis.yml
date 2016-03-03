@@ -1,2 +1,6 @@
+---
 language: java
-mvn package spring-boot:repackage 
+script: mvn package spring-boot:repackage 
+branches:
+  only:
+  - master
