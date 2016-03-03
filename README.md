@@ -20,7 +20,7 @@ a Spring boot example application
  
 ### CI (travis-ci.org)
 
-[![Build Status](https://travis-ci.org/dsabia/SalesTaxes.svg?branch=master)](https://travis-ci.org/dsabia/SalesTaxes.svg?branch=master)
+[![Build Status](https://travis-ci.org/dsabia/SalesTaxes.svg?branch=master)](https://travis-ci.org/dsabia/SalesTaxes)
  
  
 ### Project management (waffle.io)
