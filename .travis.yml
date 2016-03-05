@@ -1,6 +1,12 @@
 ---
 language: java
+
+jdk:
+  - oraclejdk7
+  - oraclejdk8
+
 script: mvn package spring-boot:repackage 
+
 branches:
   only:
   - master
